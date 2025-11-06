@@ -1,0 +1,3 @@
+This lab focuses on writing and testing Java methods. Each method isolates a specific problem, demonstrating decomposition and modular programming. The mulTest() method reinforces loop and condition logic by randomly generating multiplication problems. The divide() and modulus() methods simulate division and remainder operations using repeated subtraction. countDigits() helps understand digit manipulation and edge case handling. position() teaches number traversal from the right, identifying digit positions. extractOddDigits() reinforces digit filtering logic and reconstruction of numbers. Together, these exercises enhance confidence in control structures, modular design, and debugging.
+
+
